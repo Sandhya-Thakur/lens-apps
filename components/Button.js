@@ -23,11 +23,11 @@ border-radius: 25px;
 cursor: pointer;
 font-size: 14px;
 font-weight: 500;
-background-color: rgb(${PINK});
+background-color: #808080;
 transition: all .35s;
 width: 240px;
 letter-spacing: .75px;
 &:hover {
-  background-color: rgba(${PINK}, .75);
+  background-color: #808080, .75);
 }
 `
